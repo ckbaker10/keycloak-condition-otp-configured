@@ -1,0 +1,5 @@
+target/classes
+target/*.jar
+target/maven-archiver
+target/maven-status
+dependency-reduced-pom.xml
